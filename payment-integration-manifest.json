@@ -1,0 +1,10 @@
+{
+  "name": "adyen-commercetools-master",
+  "version": "1.0.0",
+  "description": "This is a custom payment integration",
+  "endpoint": "https://adyen-commercetools-master.vercel.app/payment-handler",
+  "builders": {
+    "paymentProvider": "1.0.0"
+  },
+  "target": "payment"
+}
